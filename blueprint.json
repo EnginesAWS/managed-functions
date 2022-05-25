@@ -1,0 +1,39 @@
+{
+	"identifier": "managed-functions",
+	"about": {
+		"title": "Managed Functions",
+		"explanation": "A binder blueprint of the Managed Functions suite of apps"
+	},
+	"bindings": [
+		{
+			"target": {
+        "identifier": "billing-engine",
+        "repository": "https://github.com/enginesAWS/container-service"
+      }
+		},
+		{
+			"target": {
+        "identifier": "longitude",
+        "repository": "https://github.com/enginesAWS/container-service"
+      }
+		},
+		{
+			"target": {
+        "identifier": "sura",
+        "repository": "https://github.com/enginesAWS/container-service"
+      }
+		},
+		{
+			"target": {
+        "identifier": "opta",
+        "repository": "https://github.com/enginesAWS/container-service"
+      }
+		},
+		{
+			"target": {
+        "identifier": "billing-engine",
+        "repository": "https://github.com/enginesAWS/container-service"
+      }
+		}
+	]
+}
