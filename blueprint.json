@@ -6,25 +6,33 @@
 	},
 	"bindings": [
 		{
+			"type": "configure",
 			"identifier": "billing-engine",
+			"application_identifier": "billing-engine",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
 			}
 		},
 		{
+			"type": "configure",
 			"identifier": "longitude",
+			"application_identifier": "longitude",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
 			}
 		},
 		{
+			"type": "configure",
 			"identifier": "sura",
+			"application_identifier": "sura",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
 			}
 		},
 		{
+			"type": "configure",
 			"identifier": "opta",
+			"application_identifier": "opta",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
 			}
