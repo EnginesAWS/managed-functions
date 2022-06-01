@@ -7,6 +7,13 @@
 	"bindings": [
 		{
 			"type": "configure",
+			"identifier": "abs",
+			"target": {
+				"repository": "https://github.com/enginesAWS/container-service"
+			}
+		},
+		{
+			"type": "configure",
 			"identifier": "billing-engine",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
