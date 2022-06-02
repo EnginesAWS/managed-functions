@@ -10,6 +10,12 @@
 			"identifier": "abs",
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
+			},
+			"configuration": {
+				"cpu": 10,
+				"memory": 512,
+				"containerPort": 80,
+				"hostPort": 80
 			}
 		},
 		{
