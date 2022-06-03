@@ -45,6 +45,12 @@
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-service"
 			}
+		},
+		{
+			"type": "configure",
+			"target": {
+				"repository": "https://github.com/enginesAWS/container-task-definition"
+			}
 		}
 	]
 }
