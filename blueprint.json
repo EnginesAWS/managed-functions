@@ -7,43 +7,33 @@
 	"bindings": [
 		{
 			"type": "configure",
-			"identifier": "abs",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container-service"
-			},
-			"configuration": {
-				"cpu": 10,
-				"memory": 512,
-				"container_port": 80,
-				"host_port": 80
+				"repository": "https://github.com/enginesAWS/abs"
 			}
 		},
 		{
 			"type": "configure",
-			"identifier": "billing-engine",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container-service"
+				"repository": "https://github.com/enginesAWS/billing-engine"
 			}
 		},
 		{
 			"type": "configure",
-			"identifier": "longitude",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container-service"
+				"repository": "https://github.com/enginesAWS/longitude"
 			}
 		},
 		{
 			"type": "configure",
 			"identifier": "sura",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container-service"
+				"repository": "https://github.com/enginesAWS/sura"
 			}
 		},
 		{
 			"type": "configure",
-			"identifier": "opta",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container-service"
+				"repository": "https://github.com/enginesAWS/opta"
 			}
 		},
 		{
