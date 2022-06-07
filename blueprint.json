@@ -25,7 +25,6 @@
 		},
 		{
 			"type": "configure",
-			"identifier": "sura",
 			"target": {
 				"repository": "https://github.com/enginesAWS/sura"
 			}
