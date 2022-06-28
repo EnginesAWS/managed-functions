@@ -34,12 +34,6 @@
 			"target": {
 				"repository": "https://github.com/enginesAWS/opta"
 			}
-		},
-		{
-			"type": "configure",
-			"target": {
-				"repository": "https://github.com/enginesAWS/container-task-definition"
-			}
 		}
 	]
 }
